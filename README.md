@@ -7,7 +7,7 @@ description: Southern Europe
 
 <FlatUiTable
   data={{
-    url: 'ookla_broadband.csv'
+    url: 'ookla_fb.csv'
   }}
 />
 
